@@ -1,6 +1,6 @@
 # Particle annotations for the large-scale cryo-ET dataset of *Chlamydomonas reinhardtii*
 
-In the scope of the work introducing the dataset ([doi:10.1101/2024.12.28.630444](https://doi.org/10.1101/2024.12.28.630444)), annotations of 7 particles were created: ATPase, Clathrin, Microtubule, Nucleosome, Photosystem II, Rubisco, and Ribosome80S. Unbinned particle coordinates and orientations are stored in the RELION-3 `.star` file format with the pixel size of 1.96 Å - available in the [star](star) folder.
+In the scope of the work introducing the dataset ([doi:10.1016/j.molcel.2025.11.029](https://doi.org/10.1016/j.molcel.2025.11.029) & [preprint doi:10.1101/2024.12.28.630444](https://doi.org/10.1101/2024.12.28.630444)), annotations of 7 particles were created: ATPase, Clathrin, Microtubule, Nucleosome, Photosystem II, Rubisco, and Ribosome80S. Unbinned particle coordinates and orientations are stored in the RELION-3 `.star` file format with the pixel size of 1.96 Å - available in the [star](star) folder.
 
 The annotations of each particle were used to create the subtomogram averages - available in the [densities](densities) folder. Please note, that some densities were obtained by additional postprocessing of the subtomograms using various software package such as WarpM, etc. - thus simply averaging the subtomograms at the given coordinates won't lead to exactly the same maps.
 
