@@ -109,3 +109,5 @@ We welcome contributions from the community to enhance the utility of this datas
 **Author:** Ricardo D. Righetto \
 **REPO:** [github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations](https://github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations) \
 **Subfolder in this repository:** [chlamy2025](chlamy2025)
+
+----
