@@ -2,7 +2,7 @@
 
 This Excel file is the result of the manual annotation process of the Chlamy dataset done collectively by the authors as the data was being generated and processed.
 
-The spreadsheet is archived on Zenodo: https://doi.org/10.5281/zenodo.13941455
+The spreadsheet is archived on Zenodo: https://doi.org/10.5281/zenodo.15615650
 
 ## Annotation
 
