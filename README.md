@@ -1,6 +1,14 @@
-# Towards community-driven visual proteomics with large-scale cryo-electron tomography of *Chlamydomonas reinhardtii*
+[![Molecular Cell Header](https://github.com/user-attachments/assets/a92a546c-3521-4016-92e7-07bcf015ce83)](https://doi.org/10.1016/j.molcel.2025.11.029)
 
-This is an accompanying repository to the work [doi:10.1101/2024.12.28.630444](https://doi.org/10.1101/2024.12.28.630444) and the dataset of 1829 cryo-electron tomograms presented within. This repository serves as a central location for exchnage of additional resources and community contributions related to this dataset. The intended audience includes researchers and practitioners in cryo-electron tomography, structural biology, and visual proteomics. It is designed for those interested in exploring large-scale cryo-ET datasets, developing new analysis tools, or contributing annotations and resources to advance the field. Students and educators in related disciplines may also find the repository valuable for learning and teaching. Licensing information can be found in [LICENSE](LICENSE).
+# Toward community-driven visual proteomics with large-scale cryo-electron tomography of *Chlamydomonas reinhardtii*
+
+[Ron Kelley](## "contributed equally"), [Sagar Khavnekar](## "contributed equally"), [Ricardo D. Righetto](## "contributed equally"), [Jessica Heebner](## "contributed equally"), [Martin Obr](## "contributed equally"), [Xianjun Zhang](## "contributed equally"), [Saikat Chakraborty](## "contributed equally"), [Grigory Tagiltsev](## "contributed equally"), [Alicia K. Michael](## "contributed equally"), [Sofie van Dorst](## "contributed equally"), Florent Waltz, Caitlyn L. McCafferty, Lorenz Lamm, Simon Zufferey, Philippe Van der Stappen, Hugo van den Hoek, Wojciech Wietrzynski, Pavol Harar, William Wan, John A.G. Briggs, Jürgen M. Plitzko, [**Benjamin D. Engel**](mailto:ben.engel@unibas.ch "lead contact & corresponding author"), [**Abhay Kotecha**](mailto:abhay.kotecha@stjude.org "corresponding author")
+
+[![Graphical Abstract Horizontal](https://github.com/user-attachments/assets/15250ead-b924-4f13-9d93-80e9e2c5aed2)](https://doi.org/10.1016/j.molcel.2025.11.029)
+
+----
+
+This is an accompanying repository to the work ([doi:10.1016/j.molcel.2025.11.029](https://doi.org/10.1016/j.molcel.2025.11.029) & [preprint doi:10.1101/2024.12.28.630444](https://doi.org/10.1101/2024.12.28.630444)) and the dataset of 1829 cryo-electron tomograms presented within. This repository serves as a central location for exchnage of additional resources and community contributions related to this dataset. The intended audience includes researchers and practitioners in cryo-electron tomography, structural biology, and visual proteomics. It is designed for those interested in exploring large-scale cryo-ET datasets, developing new analysis tools, or contributing annotations and resources to advance the field. Students and educators in related disciplines may also find the repository valuable for learning and teaching. Licensing information can be found in [LICENSE](LICENSE).
 
 
 ## Dataset of 1829 cryo-electron tomograms
@@ -26,7 +34,7 @@ We welcome contributions from the community to enhance the utility of this datas
 
 **Article:** Towards community-driven visual proteomics with large-scale cryo-electron tomography of *Chlamydomonas reinhardtii* \
 **Authors:** Kelley, R., Khavnekar, S., Righetto, R.D., Heebner, J., Obr, M., Zhang, X., Chakraborty, S., Tagiltsev, G., Michael, A.K., van Dorst, S., Waltz, F., McCafferty, C.L., Lamm, L., Zufferey, S., Van der Stappen, P., van den Hoek, H., Wietrzynski, W., Harar, P., Wan, W., Briggs, J.A.G., Plitzko, J.M., Engel, B.D., Kotecha, A. \
-**DOI:** [10.1101/2024.12.28.630444](https://doi.org/10.1101/2024.12.28.630444) \
+**DOI:** [10.1101/2024.12.28.630444](https://doi.org/10.1101/2024.12.28.630444) (now published in: [doi:10.1016/j.molcel.2025.11.029](https://doi.org/10.1016/j.molcel.2025.11.029)) \
 **REPO:** [github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations](https://github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations) \
 **Subfolder in this repository:** [10.1101-2024.12.28.630444](10.1101-2024.12.28.630444) \
 **Data source & version:** EMPIAR (as of 28.02.2025)
@@ -37,9 +45,9 @@ We welcome contributions from the community to enhance the utility of this datas
 
 **Article:** Towards community-driven visual proteomics with large-scale cryo-electron tomography of *Chlamydomonas reinhardtii* \
 **Authors:** Kelley, R., Khavnekar, S., Righetto, R.D., Heebner, J., Obr, M., Zhang, X., Chakraborty, S., Tagiltsev, G., Michael, A.K., van Dorst, S., Waltz, F., McCafferty, C.L., Lamm, L., Zufferey, S., Van der Stappen, P., van den Hoek, H., Wietrzynski, W., Harar, P., Wan, W., Briggs, J.A.G., Plitzko, J.M., Engel, B.D., Kotecha, A. \
-**DOI:** [10.1101/2024.12.28.630444](https://doi.org/10.1101/2024.12.28.630444) \
+**Zenodo DOI:** [10.5281/zenodo.15615650](https://doi.org/10.5281/zenodo.15615650) (Note: doi changed due to version change) \
 **REPO:** [github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations](https://github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations) \
-**Subfolder in this repository:** [10.5281-zenodo.13941456/](10.5281-zenodo.13941456)
+**Subfolder in this repository:** [10.5281-zenodo.15615650](10.5281-zenodo.15615650)
 
 ----
 
@@ -47,7 +55,7 @@ We welcome contributions from the community to enhance the utility of this datas
 
 **Article:** Towards community-driven visual proteomics with large-scale cryo-electron tomography of *Chlamydomonas reinhardtii* \
 **Authors:** Kelley, R., Khavnekar, S., Righetto, R.D., Heebner, J., Obr, M., Zhang, X., Chakraborty, S., Tagiltsev, G., Michael, A.K., van Dorst, S., Waltz, F., McCafferty, C.L., Lamm, L., Zufferey, S., Van der Stappen, P., van den Hoek, H., Wietrzynski, W., Harar, P., Wan, W., Briggs, J.A.G., Plitzko, J.M., Engel, B.D., Kotecha, A. \
-**DOI:** [10.5281-zenodo.15875786](https://doi.org/10.5281-zenodo.15875786/) (TO DO: update with new DOI when final version of record is published) \
+**Zenodo DOI:** [10.5281/zenodo.15875786](https://doi.org/10.5281/zenodo.15875786) \
 **REPO:** [github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations](https://github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations) \
 **Subfolder in this repository:** [10.5281-zenodo.15875786](10.5281-zenodo.15875786)
 
@@ -57,7 +65,7 @@ We welcome contributions from the community to enhance the utility of this datas
 
 **Article:** Towards community-driven visual proteomics with large-scale cryo-electron tomography of *Chlamydomonas reinhardtii* \
 **Authors:** Kelley, R., Khavnekar, S., Righetto, R.D., Heebner, J., Obr, M., Zhang, X., Chakraborty, S., Tagiltsev, G., Michael, A.K., van Dorst, S., Waltz, F., McCafferty, C.L., Lamm, L., Zufferey, S., Van der Stappen, P., van den Hoek, H., Wietrzynski, W., Harar, P., Wan, W., Briggs, J.A.G., Plitzko, J.M., Engel, B.D., Kotecha, A. \
-**DOI:** [10.5281-zenodo.16619468](https://doi.org/10.5281-zenodo.16619468/) (TO DO: update with new DOI when final version of record is published) \
+**Zenodo DOI:** [10.5281/zenodo.16619468](https://doi.org/10.5281/zenodo.16619468) \
 **REPO:** [github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations](https://github.com/Chromatin-Structure-Rhythms-Lab/ChlamyAnnotations) \
 **Subfolder in this repository:** [10.5281-zenodo.16619468](10.5281-zenodo.16619468)
 
@@ -87,7 +95,7 @@ We welcome contributions from the community to enhance the utility of this datas
 ### TomoGuide – a cryo-electron tomography processing workflow tutorial
 
 **Authors:** Van der Stappen, P. & Waltz, F. \
-**DOI:** [10.5281/zenodo.15358525](https://doi.org/10.5281/zenodo.15358525) \
+**Zenodo DOI:** [10.5281/zenodo.15358525](https://doi.org/10.5281/zenodo.15358525) \
 **REPO:** [github.com/TomoGuide/TomoGuide.github.io](https://github.com/TomoGuide/TomoGuide.github.io) \
 **Subfolder in this repository:** [10.5281-zenodo.15358525](10.5281-zenodo.15358525)
 
