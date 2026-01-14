@@ -255,7 +255,10 @@ def collect_tomogram_data(tomos_dir, tomo_prefix, tomolist, ctf3d_path, cryocare
             acquisition_order = read_acquisition_order_dose_star(tomos_dir, tomo_prefix)
             print(f"Found acquisition order data with {len(acquisition_order)} entries.")
             # exposures = calculate_cumulative_exposure(tilt_angles, acquisition_order, dose_per_tilt)
+            # Sort by tilt angle to match the .tlt file:
+            acquisition_order = acquisition_order[acquisition_order[:,1].argsort()]
             exposures = acquisition_order[:,2]
+            print(acquisition_order)
         except FileNotFoundError:
             print("Warning: Acquisition order CSV file not found. Using default incremental exposure.")
             # Fallback: just do an incremental from 0, 1*dose, 2*dose, ...
