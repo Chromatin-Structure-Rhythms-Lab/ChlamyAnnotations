@@ -46,7 +46,7 @@ wget -r -N -np -nH --cut-dirs=4 --reject "*.eer,*.rawtlt,*_dose-filt.st,*_EVN.st
 ```bash
 cd ChlamyAnnotations/chlamydataset2relion5/
 
-python chlamydataset2relion5.py --tomos_dir /path/to/chlamy_visual_proteomics/ --output_dir /path/to/relion5/project/ --correspondence_star tomolist_num_dir.star --ctf3d /path/to/bin4_ctf3d/ --cryocare /path/to/bin4_cryocare/`
+python chlamydataset2relion5.py --tomos_dir /path/to/chlamy_visual_proteomics/ --output_dir /path/to/relion5/project/ --correspondence_star tomolist_num_dir.star --ctf3d /path/to/bin4_ctf3d/ --cryocare /path/to/bin4_cryocare/
 ```
 
 **Tip:** the `tomolist_num_dir.star` file is provided in this repo for convenience. Alternatively, it can also be [downloaded](https://ftp.ebi.ac.uk/empiar/world_availability/11830/data/chlamy_visual_proteomics/tomolist_num_dir.star) from EMPIAR.
